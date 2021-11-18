@@ -1,7 +1,7 @@
 from price_bot import PriceBot
 
 
-BOT_TOKEN = 'OTA5NjgyMDIwMzEyMDU1ODM4.YZH1Zg.GljY27N1YXNHAY-p1LsuwEaJlNo'
+BOT_TOKEN = 'OTA5NjgyMDIwMzEyMDU1ODM4.YZH1Zg.SziIyYQo829cw1YzcJi1H39AiQI'
 hero_bot = PriceBot('HERO', 'metahero', BOT_TOKEN)
 
 #@hero_bot.event

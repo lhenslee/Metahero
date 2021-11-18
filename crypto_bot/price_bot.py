@@ -1,3 +1,4 @@
+import asyncio
 import discord
 import time
 from coingecko import CoinGecko
@@ -17,15 +18,15 @@ class PriceBot(discord.Client):
             for member in guild.members:
                 await member.edit(nick=f'{self.name} ${price}')
                 print(price)
-
+        await asyncio.sleep(10)
+    
     async def continue_price_update(self):
         while True:
-            time.sleep(1)
             await self.update_price()
         
     async def on_ready(self):
-        #await self.continue_price_update()
-        await self.update_price()
+        await self.continue_price_update()
+        #await self.update_price()
 
     async def on_message(self, message):
         if message.author == self.user:
