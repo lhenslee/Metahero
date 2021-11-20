@@ -1,5 +1,6 @@
 import discord
 import requests
+from tokens import huncho_token
 
 client = discord.Client()
 session = requests.Session()
@@ -44,5 +45,4 @@ async def on_message(message):
         await message.channel.send(get_price_summary('squid'))
 
 
-BOT_TOKEN = 'OTA5MDAxMTc5MjE0Nzc4Mzk5.YY97UQ.EamH6hPlfFGZuL-u2WZU4dTD2_c'
-client.run(BOT_TOKEN)
+client.run(huncho_token)

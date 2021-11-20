@@ -1,4 +1,4 @@
 from price_bot import PriceBot
+from tokens import sol_token
 
-BOT_TOKEN = 'OTA5NzM1MDQ1MTUyMDE0MzQ4.YZImyA.lA-LyF4p3jDyghnyy7uiErl5q9E'
-PriceBot('SOL', 'solana', BOT_TOKEN)
+PriceBot('SOL', 'solana', sol_token)
