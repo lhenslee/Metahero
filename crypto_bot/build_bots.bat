@@ -1,4 +1,8 @@
 @echo off
+pip install --upgrade pip
+pip install pyyaml
+pip install requests
+pip install discord
 Taskkill /IM "BitcoinBot.exe" /F
 Taskkill /IM "BinanceBot.exe" /F
 Taskkill /IM "HeroBot.exe" /F
