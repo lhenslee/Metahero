@@ -1,13 +1,14 @@
 import asyncio
 import json
 import discord
+import os
 from coingecko.coin import Coin
 from logger import make_logger
 
 
 class PriceBot(discord.Client):
 
-    def __init__(self, name, token_id, bot_token=None, frequency=10, **kwargs):
+    def __init__(self, name, token_id, frequency=10, **kwargs):
         super(PriceBot, self).__init__(**kwargs)
         self.logger = make_logger(name)
         self.coin = Coin(name, token_id)
@@ -15,7 +16,12 @@ class PriceBot(discord.Client):
         self.frequency = frequency
         self.price = 0
         self.ready = False
-        self.run(bot_token)
+        self.run(self.get_token())
+
+    def get_token(self):
+        """Get token id from environment variable"""
+        token_name = self.name.upper()+'_TOKEN'
+        return os.environ.get(token_name)
 
     async def update_nickname(self):
         """Update bot nickname"""
