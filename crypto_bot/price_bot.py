@@ -16,6 +16,7 @@ class PriceBot(discord.Client):
         self.frequency = frequency
         self.price = 0
         self.ready = False
+        self.logger.info(self.get_token())
         self.run(self.get_token())
 
     def get_token(self):
