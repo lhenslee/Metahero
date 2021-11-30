@@ -1,0 +1,2370 @@
+2021-11-20 03:18:51,437 INFO
+	logging in using static token
+2021-11-20 03:18:51,855 INFO
+	Shard ID None has sent the IDENTIFY payload.
+2021-11-20 03:18:52,081 INFO
+	Shard ID None has connected to Gateway: ["gateway-prd-main-x5lf",{"micros":134006,"calls":["discord-sessions-green-prd-2-97",{"micros":132792,"calls":["start_session",{"micros":65480,"calls":["api-prd-main-xnfn",{"micros":29413,"calls":["get_user",{"micros":3967},"add_authorized_ip",{"micros":1463},"get_guilds",{"micros":3271},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: ed3b61605733b5a6f9286c62d12a20a2).
+2021-11-20 03:18:54,275 INFO
+	Updating the price to 58864 in Huncho Form.
+2021-11-20 03:18:54,493 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:21:05,535 INFO
+	Updating the price to 58838 in Huncho Form.
+2021-11-20 03:21:05,868 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:24:17,522 INFO
+	Updating the price to 58762 in Huncho Form.
+2021-11-20 03:24:17,768 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:27:40,747 INFO
+	Updating the price to 58760 in Huncho Form.
+2021-11-20 03:27:40,986 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:30:52,359 INFO
+	Updating the price to 58730 in Huncho Form.
+2021-11-20 03:30:52,607 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:34:05,097 INFO
+	Updating the price to 58724 in Huncho Form.
+2021-11-20 03:34:05,394 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:37:27,118 INFO
+	Updating the price to 58754 in Huncho Form.
+2021-11-20 03:37:27,486 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:40:39,244 INFO
+	Updating the price to 58765 in Huncho Form.
+2021-11-20 03:40:39,503 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:43:50,964 INFO
+	Updating the price to 58817 in Huncho Form.
+2021-11-20 03:43:51,204 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:46:02,139 INFO
+	Updating the price to 58807 in Huncho Form.
+2021-11-20 03:46:02,460 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:49:14,239 INFO
+	Updating the price to 58803 in Huncho Form.
+2021-11-20 03:49:14,530 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:52:26,211 INFO
+	Updating the price to 58865 in Huncho Form.
+2021-11-20 03:52:26,459 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:55:48,899 INFO
+	Updating the price to 58892 in Huncho Form.
+2021-11-20 03:55:49,175 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 03:58:00,611 INFO
+	Updating the price to 58914 in Huncho Form.
+2021-11-20 03:58:01,054 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:01:13,099 INFO
+	Updating the price to 58906 in Huncho Form.
+2021-11-20 04:01:13,343 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:04:25,334 INFO
+	Updating the price to 58980 in Huncho Form.
+2021-11-20 04:04:25,692 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:08:51,411 INFO
+	Updating the price to 58976 in Huncho Form.
+2021-11-20 04:08:51,680 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:12:03,471 INFO
+	Updating the price to 58930 in Huncho Form.
+2021-11-20 04:12:03,829 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:15:18,096 INFO
+	Updating the price to 58921 in Huncho Form.
+2021-11-20 04:15:18,375 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:18:30,018 INFO
+	Updating the price to 58980 in Huncho Form.
+2021-11-20 04:18:30,311 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:21:42,607 INFO
+	Updating the price to 58976 in Huncho Form.
+2021-11-20 04:21:42,967 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:24:54,670 INFO
+	Updating the price to 59002 in Huncho Form.
+2021-11-20 04:24:54,949 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:29:09,250 INFO
+	Updating the price to 58989 in Huncho Form.
+2021-11-20 04:29:09,463 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:32:21,134 INFO
+	Updating the price to 58929 in Huncho Form.
+2021-11-20 04:32:21,415 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:35:33,217 INFO
+	Updating the price to 58885 in Huncho Form.
+2021-11-20 04:35:33,583 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:38:57,741 INFO
+	Updating the price to 58930 in Huncho Form.
+2021-11-20 04:38:58,081 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:43:12,414 INFO
+	Updating the price to 58918 in Huncho Form.
+2021-11-20 04:43:12,678 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:45:25,363 INFO
+	Updating the price to 58877 in Huncho Form.
+2021-11-20 04:45:25,670 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:48:37,146 INFO
+	Updating the price to 58840 in Huncho Form.
+2021-11-20 04:48:37,403 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:51:51,035 INFO
+	Updating the price to 58819 in Huncho Form.
+2021-11-20 04:51:51,293 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:55:16,773 INFO
+	Updating the price to 58798 in Huncho Form.
+2021-11-20 04:55:17,061 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 04:58:28,764 INFO
+	Updating the price to 58849 in Huncho Form.
+2021-11-20 04:58:29,073 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:00:49,916 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 05:00:59,929 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 05:01:09,933 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 05:01:19,946 WARNING
+	Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 05:01:29,955 WARNING
+	Shard ID None heartbeat blocked for more than 50 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 05:01:30,302 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 05:01:30,302 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 05:01:30,637 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 05:01:30,733 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-397n",{"micros":582,"calls":["discord-sessions-green-prd-2-97",{"micros":17}]}].
+2021-11-20 05:01:40,617 INFO
+	Updating the price to 58842 in Huncho Form.
+2021-11-20 05:01:40,809 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:05:02,897 INFO
+	Updating the price to 58825 in Huncho Form.
+2021-11-20 05:05:03,322 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:09:38,772 INFO
+	Updating the price to 58840 in Huncho Form.
+2021-11-20 05:09:39,181 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:11:50,345 INFO
+	Updating the price to 58846 in Huncho Form.
+2021-11-20 05:11:50,652 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:16:13,018 INFO
+	Updating the price to 58948 in Huncho Form.
+2021-11-20 05:16:13,267 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:19:34,972 INFO
+	Updating the price to 58895 in Huncho Form.
+2021-11-20 05:19:35,281 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:22:59,512 INFO
+	Updating the price to 58543 in Huncho Form.
+2021-11-20 05:22:59,850 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:26:11,455 INFO
+	Updating the price to 58852 in Huncho Form.
+2021-11-20 05:26:11,800 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:29:23,484 INFO
+	Updating the price to 58867 in Huncho Form.
+2021-11-20 05:29:23,944 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:33:58,370 INFO
+	Updating the price to 58855 in Huncho Form.
+2021-11-20 05:33:58,651 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:36:09,944 INFO
+	Updating the price to 58810 in Huncho Form.
+2021-11-20 05:36:10,238 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:40:42,761 INFO
+	Updating the price to 58842 in Huncho Form.
+2021-11-20 05:40:43,080 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:43:56,065 INFO
+	Updating the price to 58818 in Huncho Form.
+2021-11-20 05:43:56,376 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:46:10,246 INFO
+	Updating the price to 58797 in Huncho Form.
+2021-11-20 05:46:10,504 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:49:22,236 INFO
+	Updating the price to 58776 in Huncho Form.
+2021-11-20 05:49:22,504 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:53:48,849 INFO
+	Updating the price to 58743 in Huncho Form.
+2021-11-20 05:53:49,147 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:56:10,826 INFO
+	Updating the price to 58715 in Huncho Form.
+2021-11-20 05:56:11,121 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 05:59:23,247 INFO
+	Updating the price to 58723 in Huncho Form.
+2021-11-20 05:59:23,599 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:02:35,198 INFO
+	Updating the price to 58706 in Huncho Form.
+2021-11-20 06:02:35,453 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:05:49,330 INFO
+	Updating the price to 58776 in Huncho Form.
+2021-11-20 06:05:49,696 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:10:29,056 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 06:10:39,070 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 06:10:49,081 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 06:10:59,085 WARNING
+	Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 06:11:02,177 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 06:11:02,177 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 06:11:02,553 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 06:11:02,647 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-n8wf",{"micros":553,"calls":["discord-sessions-green-prd-2-97",{"micros":15}]}].
+2021-11-20 06:11:12,350 INFO
+	Updating the price to 58736 in Huncho Form.
+2021-11-20 06:11:12,639 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:13:23,908 INFO
+	Updating the price to 58730 in Huncho Form.
+2021-11-20 06:13:24,239 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:16:46,166 INFO
+	Updating the price to 58803 in Huncho Form.
+2021-11-20 06:16:46,405 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:20:08,858 INFO
+	Updating the price to 58838 in Huncho Form.
+2021-11-20 06:20:09,103 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:23:31,002 INFO
+	Updating the price to 58845 in Huncho Form.
+2021-11-20 06:23:31,385 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:25:42,759 INFO
+	Updating the price to 58864 in Huncho Form.
+2021-11-20 06:25:43,055 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:29:58,021 INFO
+	Updating the price to 58883 in Huncho Form.
+2021-11-20 06:29:58,366 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:33:21,435 INFO
+	Updating the price to 58817 in Huncho Form.
+2021-11-20 06:33:21,726 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:36:34,635 INFO
+	Updating the price to 58765 in Huncho Form.
+2021-11-20 06:36:34,978 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:39:48,080 INFO
+	Updating the price to 58769 in Huncho Form.
+2021-11-20 06:39:48,353 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:42:13,425 INFO
+	Updating the price to 58771 in Huncho Form.
+2021-11-20 06:42:13,680 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:45:35,501 INFO
+	Updating the price to 58689 in Huncho Form.
+2021-11-20 06:45:35,836 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:48:57,520 INFO
+	Updating the price to 58710 in Huncho Form.
+2021-11-20 06:48:57,838 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:51:09,608 INFO
+	Updating the price to 58750 in Huncho Form.
+2021-11-20 06:51:09,850 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:54:31,500 INFO
+	Updating the price to 58765 in Huncho Form.
+2021-11-20 06:54:31,781 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 06:57:53,666 INFO
+	Updating the price to 58758 in Huncho Form.
+2021-11-20 06:57:53,955 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:00:05,587 INFO
+	Updating the price to 58668 in Huncho Form.
+2021-11-20 07:00:05,891 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:01:24,372 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:01:34,374 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:01:44,390 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:01:54,401 WARNING
+	Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:02:04,409 WARNING
+	Shard ID None heartbeat blocked for more than 50 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:02:06,417 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 07:02:06,417 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 07:02:06,798 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 07:02:06,901 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-5ztz",{"micros":7281,"calls":["discord-sessions-green-prd-2-97",{"micros":21}]}].
+2021-11-20 07:04:17,992 INFO
+	Updating the price to 58699 in Huncho Form.
+2021-11-20 07:04:18,330 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:07:40,216 INFO
+	Updating the price to 58667 in Huncho Form.
+2021-11-20 07:07:40,473 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:10:52,546 INFO
+	Updating the price to 58415 in Huncho Form.
+2021-11-20 07:10:52,926 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:14:04,956 INFO
+	Updating the price to 58326 in Huncho Form.
+2021-11-20 07:14:05,201 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:17:26,907 INFO
+	Updating the price to 57865 in Huncho Form.
+2021-11-20 07:17:27,266 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:19:38,182 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 07:19:38,576 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 07:19:38,676 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-3j12",{"micros":682,"calls":["discord-sessions-green-prd-2-97",{"micros":20}]}].
+2021-11-20 07:20:40,452 INFO
+	Updating the price to 57932 in Huncho Form.
+2021-11-20 07:20:40,762 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:23:52,547 INFO
+	Updating the price to 58006 in Huncho Form.
+2021-11-20 07:23:52,852 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:27:05,219 INFO
+	Updating the price to 58113 in Huncho Form.
+2021-11-20 07:27:05,545 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:30:48,694 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:30:58,703 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:31:08,705 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:31:18,709 WARNING
+	Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 07:31:24,930 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 07:31:24,930 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 07:31:25,273 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 07:31:25,362 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-9l3b",{"micros":639,"calls":["discord-sessions-green-prd-2-97",{"micros":17}]}].
+2021-11-20 07:31:35,349 INFO
+	Updating the price to 58140 in Huncho Form.
+2021-11-20 07:31:35,525 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:33:37,268 INFO
+	Updating the price to 58239 in Huncho Form.
+2021-11-20 07:33:37,609 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:36:59,594 INFO
+	Updating the price to 58207 in Huncho Form.
+2021-11-20 07:36:59,905 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:40:06,297 INFO
+	Updating the price to 58289 in Huncho Form.
+2021-11-20 07:40:06,608 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:44:18,968 INFO
+	Updating the price to 58200 in Huncho Form.
+2021-11-20 07:44:19,252 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:47:41,115 INFO
+	Updating the price to 58124 in Huncho Form.
+2021-11-20 07:47:41,386 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:49:52,871 INFO
+	Updating the price to 57987 in Huncho Form.
+2021-11-20 07:49:53,169 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:53:14,925 INFO
+	Updating the price to 57970 in Huncho Form.
+2021-11-20 07:53:15,354 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:55:36,520 INFO
+	Updating the price to 57937 in Huncho Form.
+2021-11-20 07:55:36,882 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 07:59:51,132 INFO
+	Updating the price to 57910 in Huncho Form.
+2021-11-20 07:59:51,389 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:03:03,302 INFO
+	Updating the price to 57801 in Huncho Form.
+2021-11-20 08:03:03,603 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:04:35,817 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 08:04:45,833 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 08:04:55,844 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 08:05:04,130 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 08:05:04,130 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 08:05:04,558 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 08:05:04,658 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-t022",{"micros":6560,"calls":["discord-sessions-green-prd-2-97",{"micros":16}]}].
+2021-11-20 08:06:16,204 INFO
+	Updating the price to 57851 in Huncho Form.
+2021-11-20 08:06:16,451 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:09:41,954 INFO
+	Updating the price to 57870 in Huncho Form.
+2021-11-20 08:09:42,346 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:11:53,490 INFO
+	Updating the price to 57879 in Huncho Form.
+2021-11-20 08:11:53,774 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:15:15,471 INFO
+	Updating the price to 57738 in Huncho Form.
+2021-11-20 08:15:15,799 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:18:37,802 INFO
+	Updating the price to 57741 in Huncho Form.
+2021-11-20 08:18:38,149 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:21:43,867 INFO
+	Updating the price to 57688 in Huncho Form.
+2021-11-20 08:21:44,118 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:25:06,257 INFO
+	Updating the price to 57604 in Huncho Form.
+2021-11-20 08:25:06,558 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:29:32,961 INFO
+	Updating the price to 57568 in Huncho Form.
+2021-11-20 08:29:33,245 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:31:44,639 INFO
+	Updating the price to 57614 in Huncho Form.
+2021-11-20 08:31:44,891 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:36:09,563 INFO
+	Updating the price to 57684 in Huncho Form.
+2021-11-20 08:36:09,822 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:37:34,043 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 08:37:44,056 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 08:37:54,057 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 08:38:04,071 WARNING
+	Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 08:38:10,421 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 08:38:10,421 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 08:38:10,809 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 08:38:10,905 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-425g",{"micros":1344,"calls":["discord-sessions-green-prd-2-97",{"micros":18}]}].
+2021-11-20 08:38:20,552 INFO
+	Updating the price to 57839 in Huncho Form.
+2021-11-20 08:38:20,735 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:41:32,713 INFO
+	Updating the price to 57871 in Huncho Form.
+2021-11-20 08:41:33,019 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:44:44,614 INFO
+	Updating the price to 57890 in Huncho Form.
+2021-11-20 08:44:44,960 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:46:46,173 INFO
+	Updating the price to 58116 in Huncho Form.
+2021-11-20 08:46:46,424 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:50:08,595 INFO
+	Updating the price to 58015 in Huncho Form.
+2021-11-20 08:50:08,948 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:53:20,962 INFO
+	Updating the price to 57966 in Huncho Form.
+2021-11-20 08:53:21,284 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:56:43,290 INFO
+	Updating the price to 57872 in Huncho Form.
+2021-11-20 08:56:43,603 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 08:58:47,998 INFO
+	Updating the price to 57833 in Huncho Form.
+2021-11-20 08:58:48,268 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:01:43,607 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 09:01:53,612 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 09:02:03,628 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 09:02:09,771 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 09:02:09,771 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 09:02:10,140 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 09:02:10,251 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-gz5q",{"micros":740,"calls":["discord-sessions-green-prd-2-97",{"micros":18}]}].
+2021-11-20 09:02:22,925 INFO
+	Updating the price to 57834 in Huncho Form.
+2021-11-20 09:02:23,138 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:06:45,666 INFO
+	Updating the price to 57831 in Huncho Form.
+2021-11-20 09:06:45,980 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:09:59,541 INFO
+	Updating the price to 57750 in Huncho Form.
+2021-11-20 09:09:59,872 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:14:13,058 INFO
+	Updating the price to 57805 in Huncho Form.
+2021-11-20 09:14:13,358 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:19:47,377 INFO
+	Updating the price to 57749 in Huncho Form.
+2021-11-20 09:19:47,702 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:22:59,689 INFO
+	Updating the price to 57756 in Huncho Form.
+2021-11-20 09:22:59,960 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:27:14,435 INFO
+	Updating the price to 57744 in Huncho Form.
+2021-11-20 09:27:14,737 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:30:26,465 INFO
+	Updating the price to 57683 in Huncho Form.
+2021-11-20 09:30:26,746 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:33:48,739 INFO
+	Updating the price to 57700 in Huncho Form.
+2021-11-20 09:33:49,065 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:37:06,014 INFO
+	Updating the price to 57763 in Huncho Form.
+2021-11-20 09:37:06,308 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:40:09,708 INFO
+	Updating the price to 57762 in Huncho Form.
+2021-11-20 09:40:09,999 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:43:27,269 INFO
+	Updating the price to 57706 in Huncho Form.
+2021-11-20 09:43:27,603 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:45:38,840 INFO
+	Updating the price to 57703 in Huncho Form.
+2021-11-20 09:45:39,109 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:50:02,602 INFO
+	Updating the price to 57750 in Huncho Form.
+2021-11-20 09:50:02,900 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:53:26,365 INFO
+	Updating the price to 57755 in Huncho Form.
+2021-11-20 09:53:26,712 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:56:41,318 INFO
+	Updating the price to 57933 in Huncho Form.
+2021-11-20 09:56:41,549 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 09:59:53,013 INFO
+	Updating the price to 57942 in Huncho Form.
+2021-11-20 09:59:53,313 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:02:14,562 INFO
+	Updating the price to 58008 in Huncho Form.
+2021-11-20 10:02:14,848 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:05:26,632 INFO
+	Updating the price to 57995 in Huncho Form.
+2021-11-20 10:05:26,986 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:09:02,307 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:09:12,308 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:09:22,310 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:09:32,318 WARNING
+	Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:09:39,117 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 10:09:39,117 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 10:09:39,478 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 10:09:39,582 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-pcmq",{"micros":9288,"calls":["discord-sessions-green-prd-2-97",{"micros":17}]}].
+2021-11-20 10:09:51,337 INFO
+	Updating the price to 57999 in Huncho Form.
+2021-11-20 10:09:51,545 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:11:52,974 INFO
+	Updating the price to 57993 in Huncho Form.
+2021-11-20 10:11:53,282 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:15:19,557 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:15:29,563 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:15:39,569 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:15:49,573 WARNING
+	Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:15:59,588 WARNING
+	Shard ID None heartbeat blocked for more than 50 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 10:16:05,052 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 10:16:05,052 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 10:16:05,427 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 10:16:05,526 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-8wp4",{"micros":7940,"calls":["discord-sessions-green-prd-2-97",{"micros":15}]}].
+2021-11-20 10:16:15,212 INFO
+	Updating the price to 57994 in Huncho Form.
+2021-11-20 10:16:15,479 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:19:27,270 INFO
+	Updating the price to 58075 in Huncho Form.
+2021-11-20 10:19:27,502 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:22:39,306 INFO
+	Updating the price to 58174 in Huncho Form.
+2021-11-20 10:22:39,581 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:25:51,204 INFO
+	Updating the price to 58338 in Huncho Form.
+2021-11-20 10:25:51,543 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:28:03,494 INFO
+	Updating the price to 58580 in Huncho Form.
+2021-11-20 10:28:03,790 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:31:16,020 INFO
+	Updating the price to 59010 in Huncho Form.
+2021-11-20 10:31:16,295 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:35:48,868 INFO
+	Updating the price to 59591 in Huncho Form.
+2021-11-20 10:35:49,273 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:39:00,849 INFO
+	Updating the price to 59832 in Huncho Form.
+2021-11-20 10:39:01,151 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:42:14,708 INFO
+	Updating the price to 60253 in Huncho Form.
+2021-11-20 10:42:15,011 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:44:26,737 INFO
+	Updating the price to 60259 in Huncho Form.
+2021-11-20 10:44:27,059 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:47:38,820 INFO
+	Updating the price to 60210 in Huncho Form.
+2021-11-20 10:47:39,071 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:50:53,404 INFO
+	Updating the price to 60155 in Huncho Form.
+2021-11-20 10:50:53,711 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:55:05,993 INFO
+	Updating the price to 59959 in Huncho Form.
+2021-11-20 10:55:06,271 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:57:17,290 INFO
+	Updating the price to 59967 in Huncho Form.
+2021-11-20 10:57:17,541 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 10:59:28,777 INFO
+	Updating the price to 59960 in Huncho Form.
+2021-11-20 10:59:29,055 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:03:42,739 INFO
+	Updating the price to 59942 in Huncho Form.
+2021-11-20 11:03:43,048 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:06:57,213 INFO
+	Updating the price to 59835 in Huncho Form.
+2021-11-20 11:06:57,493 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:10:09,309 INFO
+	Updating the price to 59725 in Huncho Form.
+2021-11-20 11:10:09,586 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:11:57,316 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:12:07,322 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:12:10,038 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 11:12:10,038 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 11:12:10,407 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 11:12:10,513 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-sdbx",{"micros":3318,"calls":["discord-sessions-green-prd-2-97",{"micros":22}]}].
+2021-11-20 11:13:30,900 INFO
+	Updating the price to 59723 in Huncho Form.
+2021-11-20 11:13:31,214 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:16:53,307 INFO
+	Updating the price to 59693 in Huncho Form.
+2021-11-20 11:16:53,596 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:20:35,496 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:20:45,510 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:20:55,520 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:21:05,153 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 11:21:05,153 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 11:21:05,456 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 11:21:05,564 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-b5mb",{"micros":786,"calls":["discord-sessions-green-prd-2-97",{"micros":32}]}].
+2021-11-20 11:21:15,530 INFO
+	Updating the price to 59688 in Huncho Form.
+2021-11-20 11:21:15,703 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:23:26,689 INFO
+	Updating the price to 59585 in Huncho Form.
+2021-11-20 11:23:27,104 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:26:38,990 INFO
+	Updating the price to 59591 in Huncho Form.
+2021-11-20 11:26:39,255 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:30:00,972 INFO
+	Updating the price to 59588 in Huncho Form.
+2021-11-20 11:30:01,264 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:33:22,994 INFO
+	Updating the price to 59552 in Huncho Form.
+2021-11-20 11:33:23,265 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:35:34,436 INFO
+	Updating the price to 59567 in Huncho Form.
+2021-11-20 11:35:34,687 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:40:00,352 INFO
+	Updating the price to 59595 in Huncho Form.
+2021-11-20 11:40:00,758 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:43:22,675 INFO
+	Updating the price to 59558 in Huncho Form.
+2021-11-20 11:43:22,972 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:45:35,253 INFO
+	Updating the price to 59596 in Huncho Form.
+2021-11-20 11:45:35,569 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:49:27,023 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:49:37,033 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:49:47,042 WARNING
+	Shard ID None heartbeat blocked for more than 30 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:49:57,046 WARNING
+	Shard ID None heartbeat blocked for more than 40 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:50:07,055 WARNING
+	Shard ID None heartbeat blocked for more than 50 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 11:50:08,657 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 11:50:08,657 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 11:50:09,040 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 11:50:09,129 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-382p",{"micros":675,"calls":["discord-sessions-green-prd-2-97",{"micros":19}]}].
+2021-11-20 11:50:19,015 INFO
+	Updating the price to 59604 in Huncho Form.
+2021-11-20 11:50:19,190 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:51:29,731 INFO
+	Updating the price to 59651 in Huncho Form.
+2021-11-20 11:51:30,141 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:54:42,352 INFO
+	Updating the price to 59656 in Huncho Form.
+2021-11-20 11:54:42,659 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 11:58:04,490 INFO
+	Updating the price to 59666 in Huncho Form.
+2021-11-20 11:58:04,783 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:01:27,763 INFO
+	Updating the price to 59706 in Huncho Form.
+2021-11-20 12:01:28,009 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:05:44,160 INFO
+	Updating the price to 59733 in Huncho Form.
+2021-11-20 12:05:44,442 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:08:57,047 INFO
+	Updating the price to 59787 in Huncho Form.
+2021-11-20 12:08:57,353 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:12:33,021 INFO
+	Updating the price to 59767 in Huncho Form.
+2021-11-20 12:12:33,274 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:16:04,949 INFO
+	Updating the price to 59728 in Huncho Form.
+2021-11-20 12:16:05,217 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:19:27,338 INFO
+	Updating the price to 59714 in Huncho Form.
+2021-11-20 12:19:27,758 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:22:50,739 INFO
+	Updating the price to 59709 in Huncho Form.
+2021-11-20 12:22:51,007 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:26:12,565 INFO
+	Updating the price to 59707 in Huncho Form.
+2021-11-20 12:26:12,841 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:29:26,735 INFO
+	Updating the price to 59661 in Huncho Form.
+2021-11-20 12:29:26,983 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:32:51,463 INFO
+	Updating the price to 59667 in Huncho Form.
+2021-11-20 12:32:51,698 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:36:03,130 INFO
+	Updating the price to 59644 in Huncho Form.
+2021-11-20 12:36:03,454 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:39:25,154 INFO
+	Updating the price to 59656 in Huncho Form.
+2021-11-20 12:39:25,424 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:42:56,964 INFO
+	Updating the price to 59673 in Huncho Form.
+2021-11-20 12:42:57,238 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:45:20,943 INFO
+	Updating the price to 59640 in Huncho Form.
+2021-11-20 12:45:21,191 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:48:42,725 INFO
+	Updating the price to 59645 in Huncho Form.
+2021-11-20 12:48:43,125 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:52:10,891 INFO
+	Updating the price to 59698 in Huncho Form.
+2021-11-20 12:52:11,187 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:55:15,453 INFO
+	Updating the price to 59713 in Huncho Form.
+2021-11-20 12:55:15,730 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 12:56:02,836 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 12:56:03,165 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 12:56:03,269 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-djhr",{"micros":615,"calls":["discord-sessions-green-prd-2-97",{"micros":15}]}].
+2021-11-20 12:58:40,756 INFO
+	Updating the price to 59707 in Huncho Form.
+2021-11-20 12:58:41,095 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:00:43,786 INFO
+	Updating the price to 59738 in Huncho Form.
+2021-11-20 13:00:44,128 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:04:59,648 INFO
+	Updating the price to 59790 in Huncho Form.
+2021-11-20 13:05:00,027 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:08:13,686 INFO
+	Updating the price to 59779 in Huncho Form.
+2021-11-20 13:08:14,018 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:11:27,458 INFO
+	Updating the price to 59750 in Huncho Form.
+2021-11-20 13:11:27,805 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:14:49,456 INFO
+	Updating the price to 59754 in Huncho Form.
+2021-11-20 13:14:49,726 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:18:13,629 INFO
+	Updating the price to 59736 in Huncho Form.
+2021-11-20 13:18:13,987 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:21:35,452 INFO
+	Updating the price to 59731 in Huncho Form.
+2021-11-20 13:21:35,825 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:24:47,195 INFO
+	Updating the price to 59744 in Huncho Form.
+2021-11-20 13:24:47,488 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:27:59,319 INFO
+	Updating the price to 59753 in Huncho Form.
+2021-11-20 13:27:59,627 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:32:04,658 INFO
+	Updating the price to 59745 in Huncho Form.
+2021-11-20 13:32:04,962 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:34:48,943 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 13:34:58,956 WARNING
+	Shard ID None heartbeat blocked for more than 20 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 13:35:06,033 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-20 13:35:06,033 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 13:35:06,352 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 13:35:06,445 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-1bw8",{"micros":526,"calls":["discord-sessions-green-prd-2-97",{"micros":17}]}].
+2021-11-20 13:35:16,603 INFO
+	Updating the price to 59816 in Huncho Form.
+2021-11-20 13:35:16,886 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:36:17,340 INFO
+	Updating the price to 59819 in Huncho Form.
+2021-11-20 13:36:17,685 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:40:30,094 INFO
+	Updating the price to 59841 in Huncho Form.
+2021-11-20 13:40:30,333 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:43:52,732 INFO
+	Updating the price to 59868 in Huncho Form.
+2021-11-20 13:43:52,969 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:47:14,546 INFO
+	Updating the price to 59877 in Huncho Form.
+2021-11-20 13:47:14,796 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:49:26,866 INFO
+	Updating the price to 59890 in Huncho Form.
+2021-11-20 13:49:27,150 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:52:39,241 INFO
+	Updating the price to 59897 in Huncho Form.
+2021-11-20 13:52:39,565 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-20 13:53:09,104 WARNING
+	Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "bitcoin_bot.py", line 5, in <module>
+  File "price_bot.py", line 18, in __init__
+  File "discord\client.py", line 713, in run
+  File "asyncio\windows_events.py", line 316, in run_forever
+  File "asyncio\base_events.py", line 570, in run_forever
+  File "asyncio\base_events.py", line 1859, in _run_once
+  File "asyncio\events.py", line 81, in _run
+  File "discord\client.py", line 343, in _run_event
+  File "price_bot.py", line 48, in on_ready
+  File "price_bot.py", line 43, in continue_price_update
+  File "price_bot.py", line 31, in update_price
+  File "coingecko.py", line 25, in get_price
+  File "coingecko.py", line 22, in get_price_info
+  File "requests\sessions.py", line 555, in get
+  File "requests\sessions.py", line 542, in request
+  File "requests\sessions.py", line 655, in send
+  File "requests\adapters.py", line 439, in send
+  File "urllib3\connectionpool.py", line 699, in urlopen
+  File "urllib3\connectionpool.py", line 440, in _make_request
+  File "http\client.py", line 1347, in getresponse
+  File "http\client.py", line 307, in begin
+  File "http\client.py", line 268, in _read_status
+  File "socket.py", line 669, in readinto
+  File "ssl.py", line 1241, in recv_into
+  File "ssl.py", line 1099, in read
+
+2021-11-20 15:59:23,037 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 15:59:23,403 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 15:59:23,491 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-6xrn",{"micros":749,"calls":["discord-sessions-green-prd-2-97",{"micros":32}]}].
+2021-11-20 16:21:45,865 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 16:21:46,246 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 16:21:46,345 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-nb20",{"micros":546,"calls":["discord-sessions-green-prd-2-97",{"micros":16}]}].
+2021-11-20 16:39:47,571 INFO
+	Got a request to RESUME the websocket.
+2021-11-20 16:39:47,899 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-20 16:39:47,988 INFO
+	Shard ID None has successfully RESUMED session ed3b61605733b5a6f9286c62d12a20a2 under trace ["gateway-prd-main-f4st",{"micros":702,"calls":["discord-sessions-green-prd-2-97",{"micros":14}]}].

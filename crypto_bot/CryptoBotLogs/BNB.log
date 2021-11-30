@@ -1,0 +1,923 @@
+2021-11-22 17:33:38,915 INFO
+	logging in using static token
+2021-11-22 17:33:39,456 INFO
+	Shard ID None has sent the IDENTIFY payload.
+2021-11-22 17:33:39,738 INFO
+	Shard ID None has connected to Gateway: ["gateway-prd-main-nkgj",{"micros":156801,"calls":["discord-sessions-blue-prd-2-7",{"micros":151944,"calls":["start_session",{"micros":140623,"calls":["api-prd-main-b9ch",{"micros":130691,"calls":["get_user",{"micros":12455},"add_authorized_ip",{"micros":8549},"get_guilds",{"micros":16178},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 19a85fdaf67320ddc0c3a054890b2570).
+2021-11-22 17:33:42,063 INFO
+	Updating the price to 565.81 in METAHERO.
+2021-11-22 17:33:42,246 INFO
+	Successfully updated the price in METAHERO.
+2021-11-22 17:33:42,246 INFO
+	Updating the price to 565.81 in Huncho Form.
+2021-11-22 17:33:42,499 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-22 17:35:43,509 INFO
+	Updating the price to 565.71 in METAHERO.
+2021-11-22 17:35:43,972 INFO
+	Successfully updated the price in METAHERO.
+2021-11-22 17:35:43,972 INFO
+	Updating the price to 565.71 in Huncho Form.
+2021-11-22 17:35:44,124 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-22 17:38:55,886 INFO
+	Updating the price to 565.21 in METAHERO.
+2021-11-22 17:38:56,147 INFO
+	Successfully updated the price in METAHERO.
+2021-11-22 17:38:56,147 INFO
+	Updating the price to 565.21 in Huncho Form.
+2021-11-22 17:38:56,320 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-22 17:42:08,093 INFO
+	Updating the price to 565.51 in METAHERO.
+2021-11-22 17:42:08,438 INFO
+	Successfully updated the price in METAHERO.
+2021-11-22 17:42:08,438 INFO
+	Updating the price to 565.51 in Huncho Form.
+2021-11-22 17:42:08,720 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-22 17:45:20,480 INFO
+	Updating the price to 564.8 in METAHERO.
+2021-11-22 17:45:20,889 INFO
+	Successfully updated the price in METAHERO.
+2021-11-22 17:45:20,889 INFO
+	Updating the price to 564.8 in Huncho Form.
+2021-11-22 17:45:21,156 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-22 17:49:43,874 INFO
+	Updating the price to 564.89 in METAHERO.
+2021-11-22 17:49:44,264 INFO
+	Successfully updated the price in METAHERO.
+2021-11-22 17:49:44,265 INFO
+	Updating the price to 564.89 in Huncho Form.
+2021-11-22 17:49:44,451 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-22 17:51:55,723 INFO
+	Updating the price to 564.09 in METAHERO.
+2021-11-22 17:51:56,056 INFO
+	Successfully updated the price in METAHERO.
+2021-11-22 17:51:56,057 INFO
+	Updating the price to 564.09 in Huncho Form.
+2021-11-22 17:51:56,227 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-22 17:54:58,125 INFO
+	Updating the price to 564.71 in METAHERO.
+2021-11-22 17:54:58,412 INFO
+	Successfully updated the price in METAHERO.
+2021-11-22 17:54:58,412 INFO
+	Updating the price to 564.71 in Huncho Form.
+2021-11-22 17:54:58,618 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-22 18:01:53,847 INFO
+	Got a request to RESUME the websocket.
+2021-11-22 18:01:54,259 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-22 18:01:54,365 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-4g6l",{"micros":2447,"calls":["discord-sessions-blue-prd-2-7",{"micros":18}]}].
+2021-11-22 21:01:33,413 INFO
+	Got a request to RESUME the websocket.
+2021-11-22 21:01:35,138 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-22 21:01:35,290 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-ls7q",{"micros":515,"calls":["discord-sessions-blue-prd-2-169",{"micros":15}]}].
+2021-11-22 22:02:20,891 INFO
+	Got a request to RESUME the websocket.
+2021-11-22 22:02:21,362 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-22 22:02:21,492 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-jzx3",{"micros":586,"calls":["discord-sessions-blue-prd-2-169",{"micros":16}]}].
+2021-11-22 23:00:14,320 INFO
+	Got a request to RESUME the websocket.
+2021-11-22 23:00:14,753 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-22 23:00:14,866 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-x9p8",{"micros":602,"calls":["discord-sessions-blue-prd-2-169",{"micros":20}]}].
+2021-11-23 01:08:49,605 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 01:08:49,970 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 01:08:50,062 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-wjb4",{"micros":487,"calls":["discord-sessions-blue-prd-2-169",{"micros":15}]}].
+2021-11-23 03:11:59,412 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 03:11:59,819 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 03:11:59,937 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-hnsh",{"micros":429,"calls":["discord-sessions-blue-prd-2-169",{"micros":22}]}].
+2021-11-23 04:58:12,767 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 04:58:13,151 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 04:58:13,245 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-hxjl",{"micros":486,"calls":["discord-sessions-blue-prd-2-169",{"micros":15}]}].
+2021-11-23 05:47:51,998 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 05:47:52,403 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 05:47:52,495 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-jzx3",{"micros":2573,"calls":["discord-sessions-blue-prd-2-169",{"micros":15}]}].
+2021-11-23 06:12:37,741 INFO
+	Websocket closed with 1006, attempting a reconnect.
+2021-11-23 06:12:37,741 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 06:12:38,326 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 06:12:38,439 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-s6fh",{"micros":529,"calls":["discord-sessions-blue-prd-2-169",{"micros":15}]}].
+2021-11-23 06:45:38,727 INFO
+	Websocket closed with 1006, attempting a reconnect.
+2021-11-23 06:45:38,727 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 06:45:39,586 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 06:45:39,861 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-6zdt",{"micros":577,"calls":["discord-sessions-blue-prd-2-169",{"micros":15}]}].
+2021-11-23 08:16:25,679 INFO
+	Websocket closed with 1006, attempting a reconnect.
+2021-11-23 08:16:25,679 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 08:16:25,993 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 08:16:26,084 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-x9p8",{"micros":1240,"calls":["discord-sessions-blue-prd-2-169",{"micros":18}]}].
+2021-11-23 11:37:24,619 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 11:37:25,048 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 11:37:25,148 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-409b",{"micros":586,"calls":["discord-sessions-blue-prd-2-169",{"micros":32}]}].
+2021-11-23 13:17:50,753 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 13:17:51,134 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 13:17:51,241 INFO
+	Shard ID None has successfully RESUMED session 19a85fdaf67320ddc0c3a054890b2570 under trace ["gateway-prd-main-k8rx",{"micros":5163,"calls":["discord-sessions-blue-prd-2-169",{"micros":18}]}].
+2021-11-23 14:37:55,921 INFO
+	Timed out receiving packet. Attempting a reconnect.
+2021-11-23 14:37:55,921 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 14:37:55,922 ERROR
+	Attempting a reconnect in 0.61s
+Traceback (most recent call last):
+  File "aiohttp\connector.py", line 999, in _create_direct_connection
+  File "aiohttp\connector.py", line 865, in _resolve_host
+  File "aiohttp\resolver.py", line 31, in resolve
+  File "asyncio\base_events.py", line 825, in getaddrinfo
+  File "concurrent\futures\thread.py", line 57, in run
+  File "socket.py", line 918, in getaddrinfo
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "discord\client.py", line 563, in connect
+  File "asyncio\tasks.py", line 491, in wait_for
+  File "discord\gateway.py", line 305, in from_client
+  File "discord\http.py", line 967, in get_gateway
+  File "discord\http.py", line 192, in request
+  File "aiohttp\client.py", line 1117, in __aenter__
+  File "aiohttp\client.py", line 520, in _request
+  File "aiohttp\connector.py", line 535, in connect
+  File "aiohttp\connector.py", line 892, in _create_connection
+  File "aiohttp\connector.py", line 1011, in _create_direct_connection
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+2021-11-23 14:37:56,536 ERROR
+	Attempting a reconnect in 3.79s
+Traceback (most recent call last):
+  File "aiohttp\connector.py", line 999, in _create_direct_connection
+  File "aiohttp\connector.py", line 865, in _resolve_host
+  File "aiohttp\resolver.py", line 31, in resolve
+  File "asyncio\base_events.py", line 825, in getaddrinfo
+  File "concurrent\futures\thread.py", line 57, in run
+  File "socket.py", line 918, in getaddrinfo
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "discord\client.py", line 563, in connect
+  File "asyncio\tasks.py", line 491, in wait_for
+  File "discord\gateway.py", line 305, in from_client
+  File "discord\http.py", line 967, in get_gateway
+  File "discord\http.py", line 192, in request
+  File "aiohttp\client.py", line 1117, in __aenter__
+  File "aiohttp\client.py", line 520, in _request
+  File "aiohttp\connector.py", line 535, in connect
+  File "aiohttp\connector.py", line 892, in _create_connection
+  File "aiohttp\connector.py", line 1011, in _create_direct_connection
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+2021-11-23 14:38:00,340 ERROR
+	Attempting a reconnect in 6.20s
+Traceback (most recent call last):
+  File "aiohttp\connector.py", line 999, in _create_direct_connection
+  File "aiohttp\connector.py", line 865, in _resolve_host
+  File "aiohttp\resolver.py", line 31, in resolve
+  File "asyncio\base_events.py", line 825, in getaddrinfo
+  File "concurrent\futures\thread.py", line 57, in run
+  File "socket.py", line 918, in getaddrinfo
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "discord\client.py", line 563, in connect
+  File "asyncio\tasks.py", line 491, in wait_for
+  File "discord\gateway.py", line 305, in from_client
+  File "discord\http.py", line 967, in get_gateway
+  File "discord\http.py", line 192, in request
+  File "aiohttp\client.py", line 1117, in __aenter__
+  File "aiohttp\client.py", line 520, in _request
+  File "aiohttp\connector.py", line 535, in connect
+  File "aiohttp\connector.py", line 892, in _create_connection
+  File "aiohttp\connector.py", line 1011, in _create_direct_connection
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+2021-11-23 14:38:06,548 ERROR
+	Attempting a reconnect in 0.73s
+Traceback (most recent call last):
+  File "aiohttp\connector.py", line 999, in _create_direct_connection
+  File "aiohttp\connector.py", line 865, in _resolve_host
+  File "aiohttp\resolver.py", line 31, in resolve
+  File "asyncio\base_events.py", line 825, in getaddrinfo
+  File "concurrent\futures\thread.py", line 57, in run
+  File "socket.py", line 918, in getaddrinfo
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "discord\client.py", line 563, in connect
+  File "asyncio\tasks.py", line 491, in wait_for
+  File "discord\gateway.py", line 305, in from_client
+  File "discord\http.py", line 967, in get_gateway
+  File "discord\http.py", line 192, in request
+  File "aiohttp\client.py", line 1117, in __aenter__
+  File "aiohttp\client.py", line 520, in _request
+  File "aiohttp\connector.py", line 535, in connect
+  File "aiohttp\connector.py", line 892, in _create_connection
+  File "aiohttp\connector.py", line 1011, in _create_direct_connection
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+2021-11-23 14:38:07,290 ERROR
+	Attempting a reconnect in 5.49s
+Traceback (most recent call last):
+  File "aiohttp\connector.py", line 999, in _create_direct_connection
+  File "aiohttp\connector.py", line 865, in _resolve_host
+  File "aiohttp\resolver.py", line 31, in resolve
+  File "asyncio\base_events.py", line 825, in getaddrinfo
+  File "concurrent\futures\thread.py", line 57, in run
+  File "socket.py", line 918, in getaddrinfo
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "discord\client.py", line 563, in connect
+  File "asyncio\tasks.py", line 491, in wait_for
+  File "discord\gateway.py", line 305, in from_client
+  File "discord\http.py", line 967, in get_gateway
+  File "discord\http.py", line 192, in request
+  File "aiohttp\client.py", line 1117, in __aenter__
+  File "aiohttp\client.py", line 520, in _request
+  File "aiohttp\connector.py", line 535, in connect
+  File "aiohttp\connector.py", line 892, in _create_connection
+  File "aiohttp\connector.py", line 1011, in _create_direct_connection
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+2021-11-23 14:38:12,787 ERROR
+	Attempting a reconnect in 39.97s
+Traceback (most recent call last):
+  File "aiohttp\connector.py", line 999, in _create_direct_connection
+  File "aiohttp\connector.py", line 865, in _resolve_host
+  File "aiohttp\resolver.py", line 31, in resolve
+  File "asyncio\base_events.py", line 825, in getaddrinfo
+  File "concurrent\futures\thread.py", line 57, in run
+  File "socket.py", line 918, in getaddrinfo
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "discord\client.py", line 563, in connect
+  File "asyncio\tasks.py", line 491, in wait_for
+  File "discord\gateway.py", line 305, in from_client
+  File "discord\http.py", line 967, in get_gateway
+  File "discord\http.py", line 192, in request
+  File "aiohttp\client.py", line 1117, in __aenter__
+  File "aiohttp\client.py", line 520, in _request
+  File "aiohttp\connector.py", line 535, in connect
+  File "aiohttp\connector.py", line 892, in _create_connection
+  File "aiohttp\connector.py", line 1011, in _create_direct_connection
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+2021-11-23 14:38:52,765 ERROR
+	Attempting a reconnect in 66.76s
+Traceback (most recent call last):
+  File "aiohttp\connector.py", line 999, in _create_direct_connection
+  File "aiohttp\connector.py", line 865, in _resolve_host
+  File "aiohttp\resolver.py", line 31, in resolve
+  File "asyncio\base_events.py", line 825, in getaddrinfo
+  File "concurrent\futures\thread.py", line 57, in run
+  File "socket.py", line 918, in getaddrinfo
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "discord\client.py", line 563, in connect
+  File "asyncio\tasks.py", line 491, in wait_for
+  File "discord\gateway.py", line 305, in from_client
+  File "discord\http.py", line 967, in get_gateway
+  File "discord\http.py", line 192, in request
+  File "aiohttp\client.py", line 1117, in __aenter__
+  File "aiohttp\client.py", line 520, in _request
+  File "aiohttp\connector.py", line 535, in connect
+  File "aiohttp\connector.py", line 892, in _create_connection
+  File "aiohttp\connector.py", line 1011, in _create_direct_connection
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host discord.com:443 ssl:default [getaddrinfo failed]
+2021-11-23 14:39:59,863 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 14:39:59,961 INFO
+	Shard ID None session has been invalidated.
+2021-11-23 14:40:00,064 INFO
+	Got a request to IDENTIFY the websocket.
+2021-11-23 14:40:05,295 INFO
+	Shard ID None has sent the IDENTIFY payload.
+2021-11-23 14:40:05,639 INFO
+	Shard ID None has connected to Gateway: ["gateway-prd-main-7qwt",{"micros":68546,"calls":["discord-sessions-blue-prd-2-102",{"micros":67423,"calls":["start_session",{"micros":53841,"calls":["api-prd-main-43zx",{"micros":48470,"calls":["get_user",{"micros":4369},"add_authorized_ip",{"micros":6496},"get_guilds",{"micros":8345},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 51e70acdd4063776162129986e27faa1).
+2021-11-23 14:40:08,094 INFO
+	Updating the price to 594.28 in METAHERO.
+2021-11-23 14:40:08,296 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 14:40:08,296 INFO
+	Updating the price to 594.28 in Huncho Form.
+2021-11-23 14:40:08,507 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 14:42:20,156 INFO
+	Updating the price to 593.82 in METAHERO.
+2021-11-23 14:42:20,456 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 14:42:20,456 INFO
+	Updating the price to 593.82 in Huncho Form.
+2021-11-23 14:42:20,608 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 14:45:43,197 INFO
+	Updating the price to 593.83 in METAHERO.
+2021-11-23 14:45:43,493 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 14:45:43,493 INFO
+	Updating the price to 593.83 in Huncho Form.
+2021-11-23 14:45:43,716 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 14:50:06,895 INFO
+	Updating the price to 593.57 in METAHERO.
+2021-11-23 14:50:07,156 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 14:50:07,157 INFO
+	Updating the price to 593.57 in Huncho Form.
+2021-11-23 14:50:07,320 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 14:52:08,955 INFO
+	Updating the price to 593.14 in METAHERO.
+2021-11-23 14:52:09,204 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 14:52:09,204 INFO
+	Updating the price to 593.14 in Huncho Form.
+2021-11-23 14:52:09,371 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 14:55:11,764 INFO
+	Updating the price to 592.05 in METAHERO.
+2021-11-23 14:55:12,055 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 14:55:12,055 INFO
+	Updating the price to 592.05 in Huncho Form.
+2021-11-23 14:55:12,393 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 14:57:11,776 INFO
+	Websocket closed with 1006, attempting a reconnect.
+2021-11-23 14:57:11,776 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 14:57:12,108 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 14:57:12,211 INFO
+	Shard ID None has successfully RESUMED session 51e70acdd4063776162129986e27faa1 under trace ["gateway-prd-main-46js",{"micros":6159,"calls":["discord-sessions-blue-prd-2-102",{"micros":17}]}].
+2021-11-23 14:57:23,963 INFO
+	Updating the price to 592.13 in METAHERO.
+2021-11-23 14:57:24,227 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 14:57:24,227 INFO
+	Updating the price to 592.13 in Huncho Form.
+2021-11-23 14:57:24,441 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:00:26,652 INFO
+	Updating the price to 592.17 in METAHERO.
+2021-11-23 15:00:26,957 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:00:26,957 INFO
+	Updating the price to 592.17 in Huncho Form.
+2021-11-23 15:00:27,139 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:03:39,466 INFO
+	Updating the price to 592.14 in METAHERO.
+2021-11-23 15:03:39,698 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:03:39,698 INFO
+	Updating the price to 592.14 in Huncho Form.
+2021-11-23 15:03:39,851 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:07:02,591 INFO
+	Updating the price to 592.2 in METAHERO.
+2021-11-23 15:07:02,828 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:07:02,828 INFO
+	Updating the price to 592.2 in Huncho Form.
+2021-11-23 15:07:02,995 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:10:25,302 INFO
+	Updating the price to 591.95 in METAHERO.
+2021-11-23 15:10:25,659 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:10:25,660 INFO
+	Updating the price to 591.95 in Huncho Form.
+2021-11-23 15:10:25,853 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:13:48,502 INFO
+	Updating the price to 592.05 in METAHERO.
+2021-11-23 15:13:48,793 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:13:48,793 INFO
+	Updating the price to 592.05 in Huncho Form.
+2021-11-23 15:13:48,962 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:17:01,372 INFO
+	Updating the price to 592.74 in METAHERO.
+2021-11-23 15:17:01,626 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:17:01,626 INFO
+	Updating the price to 592.74 in Huncho Form.
+2021-11-23 15:17:01,873 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:20:04,569 INFO
+	Updating the price to 592.91 in METAHERO.
+2021-11-23 15:20:04,870 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:20:04,870 INFO
+	Updating the price to 592.91 in Huncho Form.
+2021-11-23 15:20:05,062 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:23:27,396 INFO
+	Updating the price to 593.44 in METAHERO.
+2021-11-23 15:23:27,650 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:23:27,650 INFO
+	Updating the price to 593.44 in Huncho Form.
+2021-11-23 15:23:27,828 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:25:49,426 INFO
+	Updating the price to 593.01 in METAHERO.
+2021-11-23 15:25:49,665 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:25:49,665 INFO
+	Updating the price to 593.01 in Huncho Form.
+2021-11-23 15:25:49,952 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:29:12,512 INFO
+	Updating the price to 592.86 in METAHERO.
+2021-11-23 15:29:12,935 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:29:12,935 INFO
+	Updating the price to 592.86 in Huncho Form.
+2021-11-23 15:29:13,091 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:31:14,624 INFO
+	Updating the price to 592.64 in METAHERO.
+2021-11-23 15:31:14,892 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:31:14,893 INFO
+	Updating the price to 592.64 in Huncho Form.
+2021-11-23 15:31:15,044 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:35:38,644 INFO
+	Updating the price to 592.77 in METAHERO.
+2021-11-23 15:35:38,912 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:35:38,912 INFO
+	Updating the price to 592.77 in Huncho Form.
+2021-11-23 15:35:39,066 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:38:50,796 INFO
+	Updating the price to 592.89 in METAHERO.
+2021-11-23 15:38:51,060 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:38:51,060 INFO
+	Updating the price to 592.89 in Huncho Form.
+2021-11-23 15:38:51,230 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:42:12,839 INFO
+	Updating the price to 593.19 in METAHERO.
+2021-11-23 15:42:13,173 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:42:13,173 INFO
+	Updating the price to 593.19 in Huncho Form.
+2021-11-23 15:42:13,373 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:45:25,209 INFO
+	Updating the price to 593.17 in METAHERO.
+2021-11-23 15:45:25,469 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:45:25,470 INFO
+	Updating the price to 593.17 in Huncho Form.
+2021-11-23 15:45:25,640 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:47:37,064 INFO
+	Updating the price to 593.31 in METAHERO.
+2021-11-23 15:47:37,360 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:47:37,360 INFO
+	Updating the price to 593.31 in Huncho Form.
+2021-11-23 15:47:37,536 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:50:49,372 INFO
+	Updating the price to 593.6 in METAHERO.
+2021-11-23 15:50:49,697 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:50:49,697 INFO
+	Updating the price to 593.6 in Huncho Form.
+2021-11-23 15:50:49,858 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:55:12,105 INFO
+	Updating the price to 593.43 in METAHERO.
+2021-11-23 15:55:12,377 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:55:12,377 INFO
+	Updating the price to 593.43 in Huncho Form.
+2021-11-23 15:55:12,633 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 15:58:24,084 INFO
+	Updating the price to 593.49 in METAHERO.
+2021-11-23 15:58:24,482 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 15:58:24,482 INFO
+	Updating the price to 593.49 in Huncho Form.
+2021-11-23 15:58:24,634 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:00:25,721 INFO
+	Updating the price to 592.16 in METAHERO.
+2021-11-23 16:00:26,042 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:00:26,042 INFO
+	Updating the price to 592.16 in Huncho Form.
+2021-11-23 16:00:26,201 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:04:48,803 INFO
+	Updating the price to 591.59 in METAHERO.
+2021-11-23 16:04:49,089 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:04:49,089 INFO
+	Updating the price to 591.59 in Huncho Form.
+2021-11-23 16:04:49,259 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:08:12,025 INFO
+	Updating the price to 591.62 in METAHERO.
+2021-11-23 16:08:12,266 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:08:12,266 INFO
+	Updating the price to 591.62 in Huncho Form.
+2021-11-23 16:08:12,478 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:11:24,097 INFO
+	Updating the price to 592.07 in METAHERO.
+2021-11-23 16:11:24,390 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:11:24,391 INFO
+	Updating the price to 592.07 in Huncho Form.
+2021-11-23 16:11:24,549 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:15:36,957 INFO
+	Updating the price to 591.73 in METAHERO.
+2021-11-23 16:15:37,366 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:15:37,366 INFO
+	Updating the price to 591.73 in Huncho Form.
+2021-11-23 16:15:37,543 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:18:49,230 INFO
+	Updating the price to 592.18 in METAHERO.
+2021-11-23 16:18:49,492 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:18:49,492 INFO
+	Updating the price to 592.18 in Huncho Form.
+2021-11-23 16:18:49,648 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:22:12,231 INFO
+	Updating the price to 591.0 in METAHERO.
+2021-11-23 16:22:12,561 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:22:12,561 INFO
+	Updating the price to 591.0 in Huncho Form.
+2021-11-23 16:22:12,708 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:24:23,908 INFO
+	Updating the price to 591.12 in METAHERO.
+2021-11-23 16:24:24,161 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:24:24,161 INFO
+	Updating the price to 591.12 in Huncho Form.
+2021-11-23 16:24:24,317 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:28:30,750 INFO
+	Updating the price to 591.08 in METAHERO.
+2021-11-23 16:28:31,074 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:28:31,074 INFO
+	Updating the price to 591.08 in Huncho Form.
+2021-11-23 16:28:31,229 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:31:52,856 INFO
+	Updating the price to 590.92 in METAHERO.
+2021-11-23 16:31:53,256 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:31:53,256 INFO
+	Updating the price to 590.92 in Huncho Form.
+2021-11-23 16:31:53,419 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:35:05,241 INFO
+	Updating the price to 590.99 in METAHERO.
+2021-11-23 16:35:05,597 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:35:05,597 INFO
+	Updating the price to 590.99 in Huncho Form.
+2021-11-23 16:35:05,776 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:38:08,409 INFO
+	Updating the price to 591.19 in METAHERO.
+2021-11-23 16:38:08,741 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:38:08,741 INFO
+	Updating the price to 591.19 in Huncho Form.
+2021-11-23 16:38:08,989 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:41:20,674 INFO
+	Updating the price to 591.6 in METAHERO.
+2021-11-23 16:41:21,191 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:41:21,191 INFO
+	Updating the price to 591.6 in Huncho Form.
+2021-11-23 16:41:21,404 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:44:24,403 INFO
+	Updating the price to 592.16 in METAHERO.
+2021-11-23 16:44:24,674 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:44:24,674 INFO
+	Updating the price to 592.16 in Huncho Form.
+2021-11-23 16:44:24,893 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:47:47,416 INFO
+	Updating the price to 592.64 in METAHERO.
+2021-11-23 16:47:47,665 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:47:47,665 INFO
+	Updating the price to 592.64 in Huncho Form.
+2021-11-23 16:47:47,870 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:51:00,525 INFO
+	Updating the price to 592.46 in METAHERO.
+2021-11-23 16:51:00,844 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:51:00,844 INFO
+	Updating the price to 592.46 in Huncho Form.
+2021-11-23 16:51:01,108 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:55:23,558 INFO
+	Updating the price to 592.14 in METAHERO.
+2021-11-23 16:55:23,821 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:55:23,821 INFO
+	Updating the price to 592.14 in Huncho Form.
+2021-11-23 16:55:23,987 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 16:57:25,781 INFO
+	Updating the price to 591.94 in METAHERO.
+2021-11-23 16:57:26,129 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 16:57:26,129 INFO
+	Updating the price to 591.94 in Huncho Form.
+2021-11-23 16:57:26,327 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:00:38,196 INFO
+	Updating the price to 591.56 in METAHERO.
+2021-11-23 17:00:38,443 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:00:38,443 INFO
+	Updating the price to 591.56 in Huncho Form.
+2021-11-23 17:00:38,601 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:03:50,179 INFO
+	Updating the price to 591.25 in METAHERO.
+2021-11-23 17:03:50,445 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:03:50,445 INFO
+	Updating the price to 591.25 in Huncho Form.
+2021-11-23 17:03:50,611 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:08:13,344 INFO
+	Updating the price to 591.21 in METAHERO.
+2021-11-23 17:08:13,654 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:08:13,654 INFO
+	Updating the price to 591.21 in Huncho Form.
+2021-11-23 17:08:13,827 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:11:26,693 INFO
+	Updating the price to 591.25 in METAHERO.
+2021-11-23 17:11:26,990 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:11:26,990 INFO
+	Updating the price to 591.25 in Huncho Form.
+2021-11-23 17:11:27,146 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:13:38,887 INFO
+	Updating the price to 590.84 in METAHERO.
+2021-11-23 17:13:39,122 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:13:39,123 INFO
+	Updating the price to 590.84 in Huncho Form.
+2021-11-23 17:13:39,271 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:16:51,205 INFO
+	Updating the price to 590.25 in METAHERO.
+2021-11-23 17:16:51,578 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:16:51,578 INFO
+	Updating the price to 590.25 in Huncho Form.
+2021-11-23 17:16:51,783 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:20:03,891 INFO
+	Updating the price to 590.14 in METAHERO.
+2021-11-23 17:20:04,335 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:20:04,335 INFO
+	Updating the price to 590.14 in Huncho Form.
+2021-11-23 17:20:04,520 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:24:07,525 INFO
+	Updating the price to 589.29 in METAHERO.
+2021-11-23 17:24:08,358 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:24:08,358 INFO
+	Updating the price to 589.29 in Huncho Form.
+2021-11-23 17:24:08,517 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:27:10,556 INFO
+	Updating the price to 588.93 in METAHERO.
+2021-11-23 17:27:10,855 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:27:10,855 INFO
+	Updating the price to 588.93 in Huncho Form.
+2021-11-23 17:27:11,019 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:30:33,102 INFO
+	Updating the price to 588.99 in METAHERO.
+2021-11-23 17:30:33,463 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:30:33,463 INFO
+	Updating the price to 588.99 in Huncho Form.
+2021-11-23 17:30:33,625 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:33:55,361 INFO
+	Updating the price to 588.71 in METAHERO.
+2021-11-23 17:33:55,791 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:33:55,791 INFO
+	Updating the price to 588.71 in Huncho Form.
+2021-11-23 17:33:55,945 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:36:07,132 INFO
+	Updating the price to 588.8 in METAHERO.
+2021-11-23 17:36:07,390 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:36:07,390 INFO
+	Updating the price to 588.8 in Huncho Form.
+2021-11-23 17:36:07,559 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:39:20,139 INFO
+	Updating the price to 588.94 in METAHERO.
+2021-11-23 17:39:20,412 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:39:20,412 INFO
+	Updating the price to 588.94 in Huncho Form.
+2021-11-23 17:39:20,585 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:42:22,419 INFO
+	Updating the price to 589.47 in METAHERO.
+2021-11-23 17:42:22,670 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:42:22,670 INFO
+	Updating the price to 589.47 in Huncho Form.
+2021-11-23 17:42:22,854 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:45:34,687 INFO
+	Updating the price to 590.14 in METAHERO.
+2021-11-23 17:45:34,971 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:45:34,972 INFO
+	Updating the price to 590.14 in Huncho Form.
+2021-11-23 17:45:35,127 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:48:56,929 INFO
+	Updating the price to 590.3 in METAHERO.
+2021-11-23 17:48:57,208 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:48:57,209 INFO
+	Updating the price to 590.3 in Huncho Form.
+2021-11-23 17:48:57,363 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:52:20,116 INFO
+	Updating the price to 589.72 in METAHERO.
+2021-11-23 17:52:20,394 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:52:20,394 INFO
+	Updating the price to 589.72 in Huncho Form.
+2021-11-23 17:52:20,588 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:54:21,974 INFO
+	Updating the price to 589.57 in METAHERO.
+2021-11-23 17:54:22,372 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:54:22,373 INFO
+	Updating the price to 589.57 in Huncho Form.
+2021-11-23 17:54:22,527 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 17:57:34,268 INFO
+	Updating the price to 588.95 in METAHERO.
+2021-11-23 17:57:34,752 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 17:57:34,753 INFO
+	Updating the price to 588.95 in Huncho Form.
+2021-11-23 17:57:34,912 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 18:00:33,555 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 18:00:33,958 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 18:00:34,051 INFO
+	Shard ID None has successfully RESUMED session 51e70acdd4063776162129986e27faa1 under trace ["gateway-prd-main-hf9c",{"micros":906,"calls":["discord-sessions-blue-prd-2-102",{"micros":37}]}].
+2021-11-23 18:00:56,995 INFO
+	Updating the price to 588.67 in METAHERO.
+2021-11-23 18:00:57,262 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 18:00:57,262 INFO
+	Updating the price to 588.67 in Huncho Form.
+2021-11-23 18:00:57,408 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 18:05:09,820 INFO
+	Updating the price to 587.48 in METAHERO.
+2021-11-23 18:05:10,129 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 18:05:10,129 INFO
+	Updating the price to 587.48 in Huncho Form.
+2021-11-23 18:05:10,302 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 18:09:32,878 INFO
+	Updating the price to 586.46 in METAHERO.
+2021-11-23 18:09:33,182 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 18:09:33,182 INFO
+	Updating the price to 586.46 in Huncho Form.
+2021-11-23 18:09:33,348 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 18:12:44,862 INFO
+	Updating the price to 586.44 in METAHERO.
+2021-11-23 18:12:45,148 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 18:12:45,148 INFO
+	Updating the price to 586.44 in Huncho Form.
+2021-11-23 18:12:45,322 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 18:15:57,289 INFO
+	Updating the price to 586.22 in METAHERO.
+2021-11-23 18:15:57,536 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 18:15:57,536 INFO
+	Updating the price to 586.22 in Huncho Form.
+2021-11-23 18:15:57,722 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 18:18:09,124 INFO
+	Updating the price to 585.88 in METAHERO.
+2021-11-23 18:18:09,449 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 18:18:09,449 INFO
+	Updating the price to 585.88 in Huncho Form.
+2021-11-23 18:18:09,637 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 18:21:21,593 INFO
+	Updating the price to 584.78 in METAHERO.
+2021-11-23 18:21:21,862 INFO
+	Successfully updated the price in METAHERO.
+2021-11-23 18:21:21,862 INFO
+	Updating the price to 584.78 in Huncho Form.
+2021-11-23 18:21:22,025 INFO
+	Successfully updated the price in Huncho Form.
+2021-11-23 18:23:23,587 INFO
+	Got a request to RESUME the websocket.
+2021-11-23 18:23:23,986 INFO
+	Shard ID None has sent the RESUME payload.
+2021-11-23 18:23:24,231 INFO
+	Shard ID None has successfully RESUMED session 51e70acdd4063776162129986e27faa1 under trace ["gateway-prd-main-6mgz",{"micros":578,"calls":["discord-sessions-blue-prd-2-102",{"micros":18}]}].
