@@ -1,15 +1,10 @@
-#include "sleepy_discord.h"
-
-class MyClientClass : public SleepyDiscord::DiscordClient {
-public:
-	using SleepyDiscord::DiscordClient::DiscordClient;
-	void onMessage(SleepyDiscord::Message message) override {
-		if (message.startsWith("whcg hello"))
-			sendMessage(message.channelID, "Hello " + message.author.username);
-	}
-};
+#include <cstdlib>
+#include <iostream>
 
 int main() {
-	MyClientClass client("", SleepyDiscord::USER_CONTROLED_THREADS);
-	client.run();
+	//MyClientClass client("", SleepyDiscord::USER_CONTROLED_THREADS);
+	//client.run();
+    if(const char* env_p = std::getenv("HUNCHO_TOKEN"))
+        std::cout << "HUNCHO_TOKEN: " << env_p << '\n';
+    std::cout << "Fuck Justin\n";
 }
