@@ -1,4 +1,4 @@
-#include "sleepy_discord.h"
+#include "sleepy_discord/sleepy_discord.h"
 
 class MyClientClass : public SleepyDiscord::DiscordClient {
 public:
@@ -10,6 +10,6 @@ public:
 };
 
 int main() {
-	MyClientClass client("", SleepyDiscord::USER_CONTROLED_THREADS);
+	MyClientClass client("token", SleepyDiscord::USER_CONTROLED_THREADS);
 	client.run();
 }
